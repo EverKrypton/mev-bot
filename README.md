@@ -17,7 +17,7 @@ Platform	Router Address	Network	Mempool Scan Time
 
 | Platform | Router Address | Network | Scan Time |
 | --- | --- | --- | --- |
-| Platform | Router Address | Network | Scan Time |
+| `Pancakeswap` | 0x10ED43C718714eb63d5aA57B78B54704E256024E | BSC | 0.78 sec |
 
 
 | Platform | Router Address | Network | Mempool Scan Time |
