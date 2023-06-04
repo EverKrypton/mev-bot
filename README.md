@@ -17,6 +17,8 @@ Platform	Router Address	Network	Mempool Scan Time
 
 | Platform | Router Address | Network | Scan Time |
 | --- | --- | --- | --- |
+| Platform | Router Address | Network | Scan Time |
+
 
 | Platform | Router Address | Network | Mempool Scan Time |
 | --- | --- |
