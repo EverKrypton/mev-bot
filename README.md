@@ -14,9 +14,12 @@ This infrastructure empowers developers and users to send bundles of transaction
 
 ## 📊 Platform Comparison
 Platform	Router Address	Network	Mempool Scan Time
-Pancakeswap	0x10ED43C718714eb63d5aA57B78B54704E256024E	BSC	0.78 sec
-Uniswap	0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D	ETH	0.32 sec
 
+
+| Platform | Router Address | Network | Mempool Scan Time
+| --- | --- |
+| `Pancakeswap` | 0x10ED43C718714eb63d5aA57B78B54704E256024E | BSC | 0.78 sec |
+| `Uniswap` | 0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D | ETH | 0.32 sec |
 
 ## 🤖 How to Use MEVBot
 ![241020628-7f849bd6-2e7a-4065-8119-e415dfb21777](https://github.com/mevbotsethandbsc/mev-bot/assets/122781085/f7de7f33-0f86-4bcf-912e-45650b90625c)
