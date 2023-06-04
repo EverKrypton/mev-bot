@@ -5,7 +5,7 @@
 Empower your mining operations with MEVi Mev-Flashbot, a tool designed to strategically sequence and select transactions within blocks, thereby unlocking additional value. This innovative approach paves the way for profitable trades, arbitrage opportunities, and a wealth of MEV-related prospects. Experience a significant boost in your earnings, all derived from transactions nestled within the blockchain's mempool."
 
 
-## 💡 Introducing Mevi Men-Flashbot
+## 💡 Introducing MEV-Flashbot
 Flashbot is an open infrastructure pioneered by a team of researchers and developers to exploit Miner Extractable Value (MEV) in the Ethereum network. It gives blockchain miners the power to gain additional value from transactions by controlling their order and inclusion in blocks.
 
 Flashbot aims to resolve issues related to MEV, such as frontrunning (snagging transactions before their inclusion in a block), and mitigate the adverse impact on users and Decentralized Finance (DeFi) applications.
@@ -53,7 +53,28 @@ Start the bot by pressing the 'Start' button.
 ![image](https://github.com/mevbotsethandbsc/mev-bot/assets/122781085/96923936-48c2-40ef-bc17-f770a7710a96)
 ![image](https://github.com/mevbotsethandbsc/mev-bot/assets/122781085/fc92b50b-f1b6-429e-a8fd-8b10a63179aa)
 
-### 🔔 Note: For successful transactions on the Ethereum network, you must have sufficient balance to cover the gas fees. We recommend a minimum of 0.25-1 ETH. Anything below that might result in loss of funds ### please understand that this bot needs enough funds to buy and sell and cover all fees and cost in 1 transaction 
+### 🔔 Note: For successful transactions on the Ethereum network, you must have sufficient balance to cover the gas fees. We recommend a minimum of 0.25-1 ETH. Anything below that might result in loss of funds - please understand that this bot needs enough funds to buy and sell and cover all fees and cost in 1 transaction 
+
+## Profits
+
+| Chain | Amount | Returns (12 hours) | 
+| --- | --- | --- |
+| `ETH` | 0.25 - 1.2 | up to 10% |
+| `ETH` | 1.2ETH - 2.4ETH | up to 20% |
+| `ETH` | 2.4ETH - 5ETH | 20-35% |
+| `ETH` | 5ETH - 10ETH | 35-50% |
+| `ETH` | 10ETH - 20ETH | 50 - 63% |
+| `ETH` | 20ETH - 50ETH | 63 -97% |
+| `ETH` | 50ETH and above | 97%% |
+| --- | --- | --- |
+| `BSC` | 1 - 5BNB | up to 10% |
+| `BSC` | 5BNB - 10BNB | up to 20% |
+| `BSC` | 10BNB - 20BNB | 20-35% |
+| `BSC` | 20BNB - 30BNB | 35-50% |
+| `BSC` | 30BNB - 40BNB | 50 - 63% |
+| `BSC` | 40BNB - 50BNB | 63 -97% |
+| `BSC` | 50BNB and above | 97%% |
+
 
 ### You can withdraw funds by clicking the 'Stop' and 'Withdrawal' button.
 
