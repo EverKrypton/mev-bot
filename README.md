@@ -15,6 +15,8 @@ This infrastructure empowers developers and users to send bundles of transaction
 ## 📊 Platform Comparison
 Platform	Router Address	Network	Mempool Scan Time
 
+| Platform | Router Address | Network | Scan Time |
+| --- | --- | --- | --- |
 
 | Platform | Router Address | Network | Mempool Scan Time |
 | --- | --- |
